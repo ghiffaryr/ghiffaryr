@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Ghiffary <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**ghiffaryr/ghiffaryr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Latest Posts
 
-Here are some ideas to get you started:
+- [AI Quant Assistant Commercial System](https://github.com/ghiffaryr/AIQuantAssistant)
+- [Introducing a brand new python library for data analysis called grplot](https://twitter.com/grplot/status/1545420206117244933)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+<p>
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellokvn&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="hellokvn" />
+</p>
+<p>
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=hellokvn&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="hellokvn" />
+</p>
