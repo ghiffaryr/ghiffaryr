@@ -3,7 +3,7 @@
 ## Latest Posts
 
 - [AI Quant Assistant Commercial System](https://github.com/ghiffaryr/AIQuantAssistant)
-- [Introducing a brand new python library for data analysis called grplot](https://twitter.com/grplot/status/1545420206117244933)
+- [Introducing a Brand New Python Library for Data Analysis Called grplot](https://twitter.com/grplot/status/1545420206117244933)
 
 ## Stats
 
