@@ -8,7 +8,7 @@
 ## Stats
 
 <p>
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghiffaryr&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="hellokvn" />
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghiffaryr&layout=compact&langs_count=20&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="hellokvn" />
 </p>
 <p>
 <img width="350px" src="https://github-readme-stats.vercel.app/api?username=ghiffaryr&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="hellokvn" />
