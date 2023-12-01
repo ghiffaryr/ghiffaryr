@@ -7,6 +7,7 @@
 - [Computer-Aided Detection of Lung Cancer from CT-scan Images with Visual Insights Using Deep Convolutional Neural Network](https://github.com/ghiffaryr/lung_cancer_detection)
 - [Viral and Bacterial Pneumonia Classification from X-ray Images Using Deep Convolutional Neural Networks](https://github.com/ghiffaryr/viral-bacterial-pneumonia-classification)
 - [VizNewz: a sentiment analysis app, designed to help government/communities to get the latest trends and sentiments from Jakarta as part of the Jakarta Smart City (JSC) program](https://github.com/ghiffaryr/VizNewz-1)
+- [Bangkit Academy by Google: 2021 Cohort](https://github.com/ghiffaryr/bangkit_2021)
 - [Bees Nest Monitoring System](https://github.com/ghiffaryr/BeesNest_MonitoringSystem)
 - [Santoni to UGG Vendor Patch](https://github.com/xiaomi-ulysse/vendor_santoni_to_ugg)
 - [GhiffaryR Overclock Kernel for Xiaomi Redmi Note 5A Prime](https://github.com/xiaomi-ulysse/android_kernel_xiaomi_ulysse-3.18)
