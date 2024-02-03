@@ -2,6 +2,7 @@
 
 ## Latest Posts
 
+- [Audio classification finetuned on pretrained audio neural networks (PANNs)](https://github.com/ghiffaryr/pann_trainer)
 - [AI Quant Assistant Commercial System](https://github.com/ghiffaryr/AIQuantAssistant)
 - [Introducing a Brand New Python Library for Data Analysis Called grplot](https://twitter.com/grplot/status/1545420206117244933)
 - [Computer-Aided Detection of Lung Cancer from CT-scan Images with Visual Insights Using Deep Convolutional Neural Network](https://github.com/ghiffaryr/lung_cancer_detection)
