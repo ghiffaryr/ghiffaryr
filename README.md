@@ -2,6 +2,7 @@
 
 ## Latest Posts
 
+- [Building Contour Detection and Height Estimation Problem](https://github.com/ghiffaryr/BuildingContourDetectionandHeightEstimationProblem)
 - [Network Analysis: Shortest Path](https://github.com/ghiffaryr/NetworkAnalysisShortestPath)
 - [Interactive Flight Booking App](https://github.com/ghiffaryr/InteractiveFlightBookingApp)
 - [IndiHome Sentiment Analysis](https://github.com/ghiffaryr/IndiHomeSentimentAnalysis)
