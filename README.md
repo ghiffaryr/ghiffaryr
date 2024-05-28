@@ -2,6 +2,9 @@
 
 ## Latest Posts
 
+- [Network Analysis: Shortest Path](https://github.com/ghiffaryr/NetworkAnalysisShortestPath)
+- [Interactive Flight Booking App](https://github.com/ghiffaryr/InteractiveFlightBookingApp)
+- [IndiHome Sentiment Analysis](https://github.com/ghiffaryr/IndiHomeSentimentAnalysis)
 - [Audio classification finetuned on pretrained audio neural networks (PANNs)](https://github.com/ghiffaryr/pann_trainer)
 - [AI Quant Assistant Commercial System](https://github.com/ghiffaryr/AIQuantAssistant)
 - [Introducing a Brand New Python Library for Data Analysis Called grplot](https://twitter.com/grplot/status/1545420206117244933)
