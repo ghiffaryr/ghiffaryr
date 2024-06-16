@@ -2,6 +2,7 @@
 
 ## Latest Posts
 
+- [A simple Python command line interface to download Bunny CDN's "DRM" videos](https://github.com/ghiffaryr/bunny-cdn-drm-video-dl-cli)
 - [LLM Text Summarization](https://github.com/ghiffaryr/LLMTextSummarization)
 - [Building Contour Detection and Height Estimation Problem](https://github.com/ghiffaryr/BuildingContourDetectionandHeightEstimationProblem)
 - [Network Analysis: Shortest Path](https://github.com/ghiffaryr/NetworkAnalysisShortestPath)
