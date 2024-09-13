@@ -1,7 +1,7 @@
 # Hi there, I'm Ghiffary <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## Latest Posts
-
+- [Hamster Kombat Unlimited Key Fetcher - All Games in One Click](https://ghiffaryr.github.io/HamsterKombatUnlimitedKeyFetcher/)
 - [Meme Coin Official Site](https://ghiffaryr.github.io/memecoinofficial/)
 - [Solana Brute-force Private Key Tool and Balance Checker](https://github.com/ghiffaryr/solana-tool)
 - [Web3 Phishing Detection using RAG-LLM](https://github.com/ghiffaryr/PhishingDetection)
