@@ -1,7 +1,8 @@
 # Hi there, I'm Ghiffary <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## Latest Posts
-- [Hamster Kombat Unlimited Key Fetcher - All Games in One Click](https://ghiffaryr.github.io/HamsterKombatUnlimitedKeyFetcher/)
+- [RandomMachine: What Happens When You Let Gradient Boosting Pick Its Own Learners?](https://medium.com/@grifqialdi/randommachine-what-happens-when-you-let-gradient-boosting-pick-its-own-learners-751cc84cb33f)
+- [Stop Writing Boilerplate. Start Creating Beautiful Visualizations.](https://medium.com/@grifqialdi/grplot-the-lazy-data-scientists-dream-library-for-python-data-visualization-a01c86be70a6)
 - [Meme Coin Official Site](https://ghiffaryr.github.io/memecoinofficial/)
 - [Solana Brute-force Private Key Tool and Balance Checker](https://github.com/ghiffaryr/solana-tool)
 - [Web3 Phishing Detection using RAG-LLM](https://github.com/ghiffaryr/PhishingDetection)
@@ -21,15 +22,6 @@
 - [Bees Nest Monitoring System](https://github.com/ghiffaryr/BeesNest_MonitoringSystem)
 - [Santoni to UGG Vendor Patch](https://github.com/xiaomi-ulysse/vendor_santoni_to_ugg)
 - [GhiffaryR Overclock Kernel for Xiaomi Redmi Note 5A Prime](https://github.com/xiaomi-ulysse/android_kernel_xiaomi_ulysse-3.18)
-
-## Stats
-
-<p>
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghiffaryr&layout=compact&langs_count=20&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="hellokvn" />
-</p>
-<p>
-<img width="350px" src="https://github-readme-stats.vercel.app/api?username=ghiffaryr&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="hellokvn" />
-</p>
 
 ## Connect with Me
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghiffary-rifqialdi/)
