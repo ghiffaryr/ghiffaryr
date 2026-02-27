@@ -14,7 +14,7 @@
 - [IndiHome Sentiment Analysis](https://github.com/ghiffaryr/IndiHomeSentimentAnalysis)
 - [Audio classification finetuned on pretrained audio neural networks (PANNs)](https://github.com/ghiffaryr/pann_trainer)
 - [AI Quant Assistant Commercial System](https://github.com/ghiffaryr/AIQuantAssistant)
-- [grplot: lazy statistical data visualization]([https://twitter.com/grplot/status/1545420206117244933](https://grplot.readthedocs.io)
+- [grplot: lazy statistical data visualization](https://twitter.com/grplot/status/1545420206117244933](https://grplot.readthedocs.io)
 - [Computer-Aided Detection of Lung Cancer from CT-scan Images with Visual Insights Using Deep Convolutional Neural Network](https://github.com/ghiffaryr/lung_cancer_detection)
 - [Viral and Bacterial Pneumonia Classification from X-ray Images Using Deep Convolutional Neural Networks](https://github.com/ghiffaryr/viral-bacterial-pneumonia-classification)
 - [VizNewz: a sentiment analysis app, designed to help government/communities to get the latest trends and sentiments from Jakarta as part of the Jakarta Smart City (JSC) program](https://github.com/ghiffaryr/VizNewz-1)
