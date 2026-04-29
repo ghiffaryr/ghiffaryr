@@ -1,6 +1,7 @@
 # Hi there, I'm Ghiffary <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## Latest Posts
+- [RoboExtension: Copy files 10× faster than Windows Explorer](https://roboextension.com)
 - [RandomMachine: What Happens When You Let Gradient Boosting Pick Its Own Learners?](https://medium.com/@grifqialdi/randommachine-what-happens-when-you-let-gradient-boosting-pick-its-own-learners-751cc84cb33f)
 - [Stop Writing Boilerplate. Start Creating Beautiful Visualizations.](https://medium.com/@grifqialdi/grplot-the-lazy-data-scientists-dream-library-for-python-data-visualization-a01c86be70a6)
 - [Meme Coin Official Site](https://ghiffaryr.github.io/memecoinofficial/)
