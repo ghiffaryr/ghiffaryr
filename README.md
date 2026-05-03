@@ -3,7 +3,9 @@
 ## Latest Posts
 - [RoboExtension: Copy files 10× faster than Windows Explorer](https://roboextension.com)
 - [RandomMachine: What Happens When You Let Gradient Boosting Pick Its Own Learners?](https://medium.com/@grifqialdi/randommachine-what-happens-when-you-let-gradient-boosting-pick-its-own-learners-751cc84cb33f)
+- [From Data to Decision: Physics-Constrained Machine Learning for Seismic Risk Assessment in Italy](https://github.com/ghiffaryr/ITA18Earthquake)
 - [Stop Writing Boilerplate. Start Creating Beautiful Visualizations.](https://medium.com/@grifqialdi/grplot-the-lazy-data-scientists-dream-library-for-python-data-visualization-a01c86be70a6)
+- [Smart Evacuation of Multi-Floor Buildings using Crowd Dynamics and Optimization](https://github.com/ghiffaryr/SmartEvacuationOfMultiFloorBuildingsUsingCrowdDynamicsAndOptimization)
 - [Meme Coin Official Site](https://ghiffaryr.github.io/memecoinofficial/)
 - [Solana Brute-force Private Key Tool and Balance Checker](https://github.com/ghiffaryr/solana-tool)
 - [Web3 Phishing Detection using RAG-LLM](https://github.com/ghiffaryr/PhishingDetection)
