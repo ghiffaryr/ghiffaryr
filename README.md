@@ -8,7 +8,7 @@
 - [Smart Evacuation of Multi-Floor Buildings using Crowd Dynamics and Optimization](https://github.com/ghiffaryr/SmartEvacuationOfMultiFloorBuildingsUsingCrowdDynamicsAndOptimization)
 - [Meme Coin Official Site](https://ghiffaryr.github.io/memecoinofficial/)
 - [Solana Brute-force Private Key Tool and Balance Checker](https://github.com/ghiffaryr/solana-tool)
-- [Web3 Phishing Detection using RAG-LLM](https://github.com/ghiffaryr/PhishingDetection)
+- [Web3 Phishing Detection using RAG-LLM](https://github.com/ghiffaryr/Web3-Phishing-Detection-RAG-LLM)
 - [A simple Python command line interface to download Bunny CDN's "DRM" videos](https://github.com/ghiffaryr/bunny-cdn-drm-video-dl-cli)
 - [LLM Text Summarization](https://github.com/ghiffaryr/LLMTextSummarization)
 - [Building Contour Detection and Height Estimation Problem](https://github.com/ghiffaryr/BuildingContourDetectionandHeightEstimationProblem)
