@@ -1,7 +1,7 @@
 # Hi there, I'm Ghiffary <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## Latest Posts
-- [WATCHOUT ISEQL - Forensic Multimodal Surveillance]([https://roboextension.com](https://github.com/ghiffaryr/multimodal-surveillance-iseql))
+- [WATCHOUT-ISEQL: Large Audio-Language Models and Object Re-Identification for Forensic Multimodal Surveillance Event Detection](https://github.com/ghiffaryr/multimodal-surveillance-iseql)
 - [RoboExtension: Copy files 10× faster than Windows Explorer](https://roboextension.com)
 - [RandomMachine: What Happens When You Let Gradient Boosting Pick Its Own Learners?](https://medium.com/@grifqialdi/randommachine-what-happens-when-you-let-gradient-boosting-pick-its-own-learners-751cc84cb33f)
 - [From Data to Decision: Physics-Constrained Machine Learning for Seismic Risk Assessment in Italy](https://github.com/ghiffaryr/ITA18Earthquake)
